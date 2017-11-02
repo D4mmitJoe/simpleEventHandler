@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Examples</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="buttonOther">Other</string>
+    <string name="buttonOtherCancel">Other Cancel</string>
+    <string name="radioButtonGreen">Green</string>
+    <string name="radioButtonPurple">Purple</string>
+    <string name="radioButtonOrange">Orange</string>
+    <string name="buttonGetCheckedColor">Get Checked Color</string>
+
+    <string-array name="colors_array"> <!--Array of strings-->
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+</resources>
